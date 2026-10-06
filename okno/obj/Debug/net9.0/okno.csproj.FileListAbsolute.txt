@@ -89,3 +89,4 @@ C:\Aplikacja\pierwsze-okno\okno\obj\Debug\net9.0\refint\okno.dll
 C:\Aplikacja\pierwsze-okno\okno\obj\Debug\net9.0\okno.pdb
 C:\Aplikacja\pierwsze-okno\okno\obj\Debug\net9.0\okno.genruntimeconfig.cache
 C:\Aplikacja\pierwsze-okno\okno\obj\Debug\net9.0\ref\okno.dll
+C:\Aplikacja\pierwsze-okno\okno\obj\Debug\net9.0\okno.sourcelink.json
