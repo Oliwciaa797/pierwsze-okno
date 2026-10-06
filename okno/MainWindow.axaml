@@ -9,7 +9,7 @@
         Width="500"
         Height="300"
         WindowStartupLocation="CenterScreen"
-        RequestedThemeVariant="light">
+        RequestedThemeVariant="default">
     <TextBlock Text="Moje zdanie" 
         FontSize="32"
         FontWeight="Bold"
